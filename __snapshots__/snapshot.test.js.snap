@@ -2842,6 +2842,14 @@ exports[`Snapshots Input with type = password 1`] = `
 </span>
 `;
 
+exports[`Snapshots InputDate default 1`] = `
+<span>
+  <div>
+    InputDate
+  </div>
+</span>
+`;
+
 exports[`Snapshots InputEmail default 1`] = `
 <span>
   <div>
